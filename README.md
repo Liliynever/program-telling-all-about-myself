@@ -11,4 +11,4 @@
 <h1></h1>
 when i was about 5 y/o age i discovered that i really like playing phone and computer but rightnow i like to play game and more than just that i know when to play and do my work i try to improve myself everyday possible except for my healthy
 <h2></h2> i knowing that i really bad at drawing so i made a routine for myself  i dont want to dissapointed my brother but if i cant go to be programmer i'll surely became some artist or a teacher bcuz of my knowledge if i stayed at this level it would be funny that i wanna be something i wanna be but i never tried to do something  that lead me to those success
-<div style="background-color: #ff5733; width: 100px; height: 100px;"></div>
+<div style="background-color: #ff5433; width: 100px; height: 100px;"></div>
