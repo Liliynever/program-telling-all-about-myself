@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head></head>
-<h4></h4>                                     my information
+<h4></h4>  <span style="color: blue">                                    my information
 <h1></h1> hello my name is teerapong truangman or you can called me bap for a short name 
 <h2></h2> my favourite cinema rightnow is chainsawman reze arc  fav sport is soccer my hobby are gaming drawing  and play some chess 
   <h3></h3> i have watch chainsaw man 4th october is really fun
